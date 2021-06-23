@@ -26,17 +26,19 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Kap](https://getkap.co/).
+GIF created with [LICECap](https://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+I had difficulty with pushing the walkthrough.gif through git. I had to settle for manually transfering the gif through uploading it as a local file. Overall, the assignment was insightful, but not too streneous.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Julian David Rodriguez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
